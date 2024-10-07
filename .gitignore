@@ -1,4 +1,2 @@
 IAS_Li_Rong.pdf
-autoencoder.keras
-autoencoder2.keras
-autoencoder_resampled.keras
+*.keras
