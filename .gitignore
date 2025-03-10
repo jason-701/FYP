@@ -1,4 +1,6 @@
 IAS_Li_Rong.pdf
-*.keras
+*.pth
 models/
 my_env/
+lstm_trials/
+old_codes/
